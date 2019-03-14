@@ -1,4 +1,4 @@
-lalalalalalala
+//
 KNOWN ISSUES - FACEBOOK PROJECT 1 TOMER GUTTMAN, OHAD SLUTZKY
 
  In the get the last 10 statuses of a member's friends, we used the sort algorithem that can be found in the STL directory. We are not sure if that is the most efficient way to do so in regards to complexity
